@@ -12,14 +12,17 @@
         <h1 class="h">
             این صفحه برای تست ایجاد شده
         </h1>
+        <h2 class="h">
+                    مقادیر این قسمت توسط علیرضامیرزایی تغییر کرد
+                </h2>
         <div class="di1">
             <img src="m.jpg" alt="" width="">
-            
-            <textarea name="div1"  cols="30" rows="10" > fgsdrfgsefgsdrfgrsdfgrdg</textarea>
-            <textarea name="div1"  cols="30" rows="10"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
-            <textarea name="div1"  cols="30" rows="10"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
-            <textarea name="div1"  cols="30" rows="10"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
-            <textarea name="div1"  cols="30" rows="10"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
+
+            <textarea name="div1"  cols="40" rows="15"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
+            <textarea name="div1"  cols="40" rows="15"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
+            <textarea name="div1"  cols="40" rows="15"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
+            <textarea name="div1"  cols="40" rows="15"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
+            <textarea name="div1"  cols="40" rows="15"> fgsdrfgsefgsdrfgrsdfgrdg</textarea>
            
         </div>
         <p id="first-p">To add a favicon to your <a class="link1" href="https://www.digikala.com/">website</a> , eithe
